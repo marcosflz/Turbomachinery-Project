@@ -10,4 +10,5 @@ script to generate 4 specific files:
 - Complete Stage
 - Blade
 
-![](https://github.com/marcosflz/Turbomachinery-Project/blob/main/Blade.JPEG)
+![](https://github.com/marcosflz/Turbomachinery-Project/blob/main/Blade.JPG)
+![](https://github.com/marcosflz/Turbomachinery-Project/blob/main/Rotor.JPG)
