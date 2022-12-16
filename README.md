@@ -9,3 +9,5 @@ script to generate 4 specific files:
 - Fairing
 - Complete Stage
 - Blade
+
+![](https://github.com/marcosflz/Turbomachinery-Project/blob/main/Blade.JPEG)
